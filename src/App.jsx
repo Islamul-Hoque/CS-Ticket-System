@@ -1,10 +1,15 @@
+import Navbar from "./Components/Navbar/Navbar";
+
 function App() {
 
   return (
-    <div>
-      cs-ticket-system
-    </div>
+    <>
+      <Navbar></Navbar>
+      
+
+      
+    </>
   )
 }
 
-export default App
+export default App;
