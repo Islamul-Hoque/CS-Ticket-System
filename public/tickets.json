@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Login Issue Password Reset Failed",
+    "description": "Tried resetting the password multiple times but every reset link shows expired immediately.",
+    "customer": "Rakibul Hasan",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "12/01/2024"
+  },
+  {
+    "id": "2",
+    "title": "Payment Failed Mobile Banking",
+    "description": "Tried to pay with bKash but the transaction was declined even though balance was sufficient.",
+    "customer": "Sumaiya Akter",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "15/01/2024"
+  },
+  {
+    "id": "3",
+    "title": "Invoice Download Problem",
+    "description": "Unable to download the January invoice from the billing section despite multiple attempts.",
+    "customer": "Tanvir Ahmed",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "17/01/2024"
+  },
+  {
+    "id": "4",
+    "title": "Billing Address Not Updating",
+    "description": "Updated billing address still shows the old one in the system instead of the new details.",
+    "customer": "Farhana Rahman",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "19/01/2024"
+  },
+  {
+    "id": "5",
+    "title": "App Crash on Android 14",
+    "description": "The app crashes immediately upon opening on Android 14 devices making it unusable.",
+    "customer": "Abdullah Al Noman",
+    "priority": "HIGH PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "22/01/2024"
+  },
+  {
+    "id": "6",
+    "title": "Refund Not Received",
+    "description": "Refund was requested three weeks ago but the amount has still not been transferred.",
+    "customer": "Maliha Chowdhury",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "25/01/2024"
+  },
+  {
+    "id": "7",
+    "title": "Two Factor Code Missing",
+    "description": "OTP codes are not being received on the registered mobile number during login attempts.",
+    "customer": "Shafiqul Islam",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "28/01/2024"
+  },
+  {
+    "id": "8",
+    "title": "Profile Picture Upload Failed",
+    "description": "Tried uploading a new profile picture but the system keeps showing upload failed messages.",
+    "customer": "Nusrat Jahan",
+    "priority": "LOW PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "30/01/2024"
+  }
+]
