@@ -25,7 +25,7 @@ const CustomerCard = ({customerCard, inProgressCount, setInProgressCount, select
             </div>
 
             <p className='text-[#627382] text-[0.82rem] my-2'>{customerCard.description}</p>
-            {/* <div className='flex justify-between items-center text-[#a1a1aa]'>
+            <div className='flex justify-between items-center text-[#a1a1aa]'>
                 <div className='flex items-center gap-2'>
                     <span className='text-[0.8rem]'>#{customerCard.id}</span>
                     <span className={`text-[0.8rem] font-semibold 
@@ -41,7 +41,7 @@ const CustomerCard = ({customerCard, inProgressCount, setInProgressCount, select
                     </div>
                 </div>
 
-            </div> */}
+            </div>
         </div>
     );
 };
