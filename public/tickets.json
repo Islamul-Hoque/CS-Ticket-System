@@ -70,5 +70,68 @@
     "priority": "LOW PRIORITY",
     "status": "Ongoing",
     "createdAt": "30/01/2024"
+  },
+  {
+    "id": "9",
+    "title": "Auto Renewal Disabled",
+    "description": "Tried enabling subscription auto renewal but the toggle remains inactive in the system.",
+    "customer": "Jahidul Karim",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "02/02/2024"
+  },
+  {
+    "id": "10",
+    "title": "Order Confirmation Email Missing",
+    "description": "Payment was completed successfully but no confirmation email was received afterwards.",
+    "customer": "Sharmin Akter",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "04/02/2024"
+  },
+  {
+    "id": "11",
+    "title": "Delivery Tracking Not Updating",
+    "description": "Parcel tracking information has not been updated for more than five consecutive days.",
+    "customer": "Mahmudul Hasan",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "10/02/2025"
+  },
+  {
+    "id": "12",
+    "title": "Password Reset Link Expired",
+    "description": "Password reset link shows expired immediately after clicking and cannot be used.",
+    "customer": "Asma Khatun",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "15/02/2025"
+  },
+  {
+    "id": "13",
+    "title": "Promo Code Not Working",
+    "description": "Tried applying a promo code during checkout but the system marked it as invalid.",
+    "customer": "Hasan Mahmud",
+    "priority": "LOW PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "20/02/2025"
+  },
+  {
+    "id": "14",
+    "title": "Push Notifications Delayed",
+    "description": "Mobile app notifications are being delivered several hours late instead of instantly.",
+    "customer": "Taslima Begum",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "25/02/2025"
+  },
+  {
+    "id": "15",
+    "title": "Duplicate Payment Charge",
+    "description": "The same order was charged twice and a refund has been requested to resolve the issue.",
+    "customer": "Rafiul Islam",
+    "priority": "HIGH PRIORITY",
+    "status": "Ongoing",
+    "createdAt": "02/03/2025"
   }
 ]

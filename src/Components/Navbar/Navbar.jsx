@@ -11,7 +11,7 @@ const Navbar = () => {
                         </div>
 
                         <ul tabIndex="0" className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><a href="#Home">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li><a href="#FAQ">FAQ</a></li>
                             <li><a href="#Changelog">Changelog</a></li>
                             <li><a href="#Blog">Blog</a></li>
@@ -20,13 +20,13 @@ const Navbar = () => {
                         </ul>
                     </div>
 
-                    <a className="text-xl font-bold whitespace-nowrap cursor-pointer">CS — Ticket System</a>
+                    <a href='/' className="text-xl font-bold whitespace-nowrap cursor-pointer">CS — Ticket System</a>
                 </div>
 
                 <div className='navbar-end '>
                     <div className=" hidden lg:flex">
                         <ul className="menu menu-horizontal px-1 text-black">
-                            <li><a href="#Home">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li><a href="#FAQ">FAQ</a></li>
                             <li><a href="#Changelog">Changelog</a></li>
                             <li><a href="#Blog">Blog</a></li>

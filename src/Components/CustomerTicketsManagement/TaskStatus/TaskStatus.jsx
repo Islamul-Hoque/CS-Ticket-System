@@ -20,7 +20,7 @@ const TaskStatus = ({selectedTicket, setSelectedTicket, inProgressCount, setInPr
         <div>
             <h2 className='font-bold text-[1.4rem]'>Task Status</h2>
 
-            {/* {
+            {
                 selectedTicket.length === 0 && ( <p className='text-[0.9rem] mt-1 text-[#a1a1aa]'> Select a ticket to add to Task Status </p> )
             }
 
@@ -48,7 +48,7 @@ const TaskStatus = ({selectedTicket, setSelectedTicket, inProgressCount, setInPr
                         </div>
                     )))
                 }
-            </div> */}
+            </div>
         </div>
     );
 };
